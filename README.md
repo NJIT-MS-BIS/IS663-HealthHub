@@ -1,6 +1,7 @@
 # IS663-HealthHub
 HealthHub project system Design source code
 
+![main page](images_icons/mainpage.png)
 
 ## Members
 
