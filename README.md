@@ -12,9 +12,7 @@ HealthHub project system Design source code
 
 ## Figma prototype
 
-```html
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fn5EEmndOKlpWAN5ZH7Bmaj%2FHealthHub%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-```
+[HealthHub](https://www.figma.com/file/n5EEmndOKlpWAN5ZH7Bmaj/HealthHub?node-id=0%3A1)
 
 ## Lincese & copyright
 
