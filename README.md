@@ -7,7 +7,7 @@ HealthHub project system Design source code
 
 - Akmal Husanov (ah697@njit.edu)
 - David Preciado (dp243@njit.edu)
-- Roberto Rutherford (rutherford.roberto@gmail.com)
+- Roberto Rutherford (rpr4@njit.edu )
 - Vedshri Dhoke (vd22@njit.edu)
 - Adrianna Brzezinska(ab344@njit.edu)
 
