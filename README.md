@@ -13,6 +13,8 @@ HealthHub project system Design source code
 
 ## Figma prototype
 
+Project prototype can accessed by visiting the below link:
+
 [HealthHub](https://www.figma.com/file/n5EEmndOKlpWAN5ZH7Bmaj/HealthHub?node-id=0%3A1)
 
 ## Lincese & copyright
